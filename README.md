@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayakKapur&label=Profile%20views&color=0e75b6&style=flat" alt="VinayakKapur" /> </p>
 
 
-- 🔭 I’m currently working on ----
+- 🔭 I’m currently working on NoTS
 
-- 🌱 I’m currently learning ----
-
-- 📫 How to reach me **kapurvinayak2004@gmail.com**
+- 🌱 I’m currently learning Azure and Census API's
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
