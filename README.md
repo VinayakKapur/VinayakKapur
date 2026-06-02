@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [NoTS](https://github.com/VinayakKapur/NoTS)
 
-- 🌱 I’m currently learning Azure and Census API's
+- 🌱 I’m currently learning Azure
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
